@@ -18,7 +18,7 @@ that I could find on NUMPY module at one place.
 * hstack, vstack
 * linspace
 
-### Implementing Logistic Regression [Notebook](https://github.com/AD1985/Amazing-Numpy/blob/master/Implementing_LogistcRegression.ipynb)
+### Implementing Logistic Regression [Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Numpy/blob/master/Implementing_LogistcRegression.ipynb)
 
 In this, I have tried to implement logistic regression algorithm from scratch using only Numpy module to explain the most necessary and crucial steps of any machine learning algorithm.
 
